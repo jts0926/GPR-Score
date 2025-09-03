@@ -2,7 +2,7 @@
 
 This repository provides the implementation of the **Generalized Patellofemoral Radiomics (GPR) Score**, as described in our manuscript. It includes two main workflows:  
 
-1. **Model Training Pipeline** (`GPR_Score_Pipeline.ipynb`)  
+1. **Model Training Pipeline** (`GPR_Score_pipeline.ipynb`)  
    - Full end-to-end pipeline to train the GPR Score model using radiomics features.  
    - Due to data privacy restrictions, the training data used in the manuscript cannot be shared directly.  
    - This notebook is provided for reproducibility and reference only.  
